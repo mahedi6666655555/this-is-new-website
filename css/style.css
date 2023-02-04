@@ -1,0 +1,13 @@
+.thisimg {
+
+    background-image: url(../Img/Rectangle.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.this-card {
+    border: 1px solid #E4E6E8;
+    border-radius: 14px;
+}
