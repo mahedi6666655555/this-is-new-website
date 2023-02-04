@@ -11,3 +11,15 @@
     border: 1px solid #E4E6E8;
     border-radius: 14px;
 }
+
+.for-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    list-style: none;
+    padding-top: 200px;
+    width: 90%;
+    margin: auto;
+}
+.for-grid2{
+    height: 60vh;
+}
